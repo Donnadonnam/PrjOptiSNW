@@ -1,10 +1,6 @@
-*.html linguist-vendored
-*.mlx linguist-vendored
-*.pdf linguist-vendored
-*.ipynb linguist-vendored
+# Rprofile*.mlx linguist-vendored
+#17*.ipynb linguist-vendored
 
-*.tex linguist-vendored
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
-*.Rprofile linguist-vendored
+#17*.css linguist-vendored
+#17*.js linguist-vendored
+m#17
